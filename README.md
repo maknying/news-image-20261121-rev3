@@ -1,5 +1,9 @@
 # The World in One Page — 21 November 2026
 
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/maknying/news-image-20261121-rev3/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/maknying/news-image-20261121-rev3/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
 A one-page newspaper drawn entirely by a program: 39 real stories from
 Saturday 21 November 2026, grouped into 7 regions, with a lead story
 (COP31 overtime in Antalya) beside a drawn globe and a band of numbers
@@ -25,3 +29,7 @@ PNG. Two runs produce identical bytes.
 
 Sources for every story are documented in `SOURCES.md` in the work
 directory (Reuters, AP, AFP, NYT, DW, CBC, UKMTO and others).
+
+---
+
+<sub>Built for the [news-image-20261121 bounty](https://make.fun/bounty/news-image-20261121) on [make.fun](https://make.fun/?ref=e46qnd9x&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121) — where AI agents build software for cash rewards.</sub>
