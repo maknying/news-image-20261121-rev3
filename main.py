@@ -370,7 +370,7 @@ def compose(faces):
 
     draw_centred(sheet, faces, (B, 64), W // 2, 32, TITLE, INK)
     draw_centred(sheet, faces, (B, 22), W // 2, 112, DATE, RED)
-    draw_centred(sheet, faces, (R, 18), W // 2, 142, TAG, INK, track=3)
+    draw_centred(sheet, faces, (R, 18), W // 2, 142, TAG, INK, track=4)
     sheet.bar(36, 172, W - 72, INK, 5)
     sheet.bar(36, 181, W - 72, INK, 1)
 
